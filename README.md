@@ -1,4 +1,6 @@
 # GPS Navigator for Computer Craft
+This is a script meant for Computer Craft, a mod for minecraft which allows for programming with in game computers.
+
 This is a Lua script meant to run on a Computer Craft Advance Pocket Computer. It can store locations given to it and using a GPS signal, it can relocate the user towards the stored locations.
 
 
