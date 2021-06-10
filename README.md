@@ -25,7 +25,7 @@ Dual View doubles the amount of data shown, showing locations in each column.
 
 Distance View will show how many blocks away the location is from your current position (only if a GPS signal is present).
 
-##Load Location
+## Load Location
 The final option lets you load a location into the GPS Display. The Display will show a cross into the direction of the chosen location. Align your character with the compass and walk into that direction to go towards your destination. Optionally, you can rotate the entire compass by 90 degrees by pressing the arrow buttons on either side.
 
 ## How to install
